@@ -4,7 +4,7 @@ Code examples & starter kits to see how React Native works with GraphQL and othe
 
 <hr>
 
-**<p align="center">Select an example** from the list above to get started ⤴️</p>
+**<p align="center">Select an example** from the list below to get started :arrow_heading_down:</p>
 
 <hr>
 
